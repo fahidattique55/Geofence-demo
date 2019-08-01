@@ -1,0 +1,16 @@
+PODS:
+  - DBMapSelectorViewController (1.2.2)
+
+DEPENDENCIES:
+  - DBMapSelectorViewController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DBMapSelectorViewController
+
+SPEC CHECKSUMS:
+  DBMapSelectorViewController: 39b9156fae4f6c937397d66edd30c9c428cc4b8c
+
+PODFILE CHECKSUM: b8725f661d388f77206580f445e7cf098578bceb
+
+COCOAPODS: 1.7.1

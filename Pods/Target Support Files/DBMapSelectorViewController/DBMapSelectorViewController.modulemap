@@ -1,0 +1,6 @@
+framework module DBMapSelectorViewController {
+  umbrella header "DBMapSelectorViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
